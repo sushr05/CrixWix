@@ -1,0 +1,372 @@
+frame_no: 00000
+team_name: SL
+team_score: N/A
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '36'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: N/A
+runrate: N/A
+reqrun: N/A
+speed: N/A
+action: N/A
+
+frame_no: 00001
+team_name: N/A
+team_score: 7/138
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '36'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: N/A
+runrate: 7.67
+reqrun: 18.00
+speed: N/A
+action: SRILANKA NEED 36 MORE RUNSTO WIN FROM 12 BALLS
+
+frame_no: 00002
+team_name: N/A
+team_score: 7/138
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '36'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: N/A
+runrate: 7.67
+reqrun: 18.00
+speed: 118.4KM/H
+action: SRILANKA NEED 36 MORE RUNSTO WIN FROM 12 BALLS
+
+frame_no: 00003
+team_name: N/A
+team_score: 7/138
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '37'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: 18.1
+runrate: 7.60
+reqrun: 19.64
+speed: N/A
+action: SRILANKA NEED 36 MORE RUNSTO WIN FROM 11 BALLS
+
+frame_no: 00004
+team_name: N/A
+team_score: 7/138
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '37'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: 18.1
+runrate: 7.60
+reqrun: 19.64
+speed: N/A
+action: SRILANKA NEED 36 MORE RUNSTO WIN FROM 11 BALLS
+
+frame_no: 00005
+team_name: TL
+team_score: 7/138
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '37'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: N/A
+runrate: 7.60
+reqrun: 19.64
+speed: N/A
+action: SRILANKA NEED 36 MORE RUNSTO WIN FROM 11 BALLS
+
+frame_no: 00006
+team_name: N/A
+team_score: 7/138
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '37'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: N/A
+runrate: 7.60
+reqrun: 19.64
+speed: 125.5KM/H
+action: SRILANKA NEED 36 MORE RUNSTO WIN FROM 11 BALLS
+
+frame_no: 00007
+team_name: N/A
+team_score: 7/138
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '37'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: N/A
+runrate: 7.60
+reqrun: 19.64
+speed: 125.5KM/H
+action: SRI LANKA NEED 36 MORE RUNSTO WIN FROM 11 BALLS
+
+frame_no: 00008
+team_name: N/A
+team_score: 7/138
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '37'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: N/A
+runrate: 7.60
+reqrun: 19.64
+speed: 125.5KM/H
+action: SRILANKA NEED 36 MORE RUNSTO WIN FROM 11 BALLS
+
+frame_no: 00009
+team_name: N/A
+team_score: 7/139
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '37'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: N/A
+runrate: 7.60
+reqrun: 19.64
+speed: 125.5KM/H
+action: SRILANKA NEED 36 MORE RUNS TOWIN FROM 11 BALLS
+
+frame_no: 00010
+team_name: N/A
+team_score: 7/139
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '47', 'striker_balls': '37'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '16', 'wickets': '0'}
+overs: N/A
+runrate: 7.60
+reqrun: 19.64
+speed: 125.5KM/H
+action: SRILANKA NEED 36 MORE RUNSTO WIN FROM 11 BALLS
+
+frame_no: 00011
+team_name: TL
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: 18.2
+runrate: 7.85
+reqrun: 1
+speed: N/A
+action: SRILANKA NEED 3O MORE RUNS TOWIN FROM 10 BALLS
+
+frame_no: 00012
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: 18.2
+runrate: 7.85
+reqrun: 18.00
+speed: N/A
+action: SRILANKA NEED 3O MORE RUNSTOWIN FROM 10 BALLS
+
+frame_no: 00013
+team_name: SL
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: 18.2
+runrate: 7.85
+reqrun: 18.00
+speed: N/A
+action: SRILANKA NEED 3O MORE RUNSTOWIN FROM 10 BALLS
+
+frame_no: 00014
+team_name: SL
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: N/A
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNSTOWIN FROM 10 BALLS
+
+frame_no: 00015
+team_name: SL
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNSTOWIN FROM 10 BALLS
+
+frame_no: 00016
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TO WIN FROM 10 BALLS
+
+frame_no: 00017
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: N/A
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TOWIN FROM 10 BALLS
+
+frame_no: 00018
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: N/A
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TO WIN FROM 10 BALLS
+
+frame_no: 00019
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TOWIN FROM 10 BALLS
+
+frame_no: 00020
+team_name: SL
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TO WIN FROM 10 BALLS
+
+frame_no: 00021
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TOWIN FROM 10 BALLS
+
+frame_no: 00022
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TOWIN FROM 10 BALLS
+
+frame_no: 00023
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TOWIN FROM 10 BALLS
+
+frame_no: 00024
+team_name: TL
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TOWIN FROM 10 BALLS
+
+frame_no: 00025
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TOWIN FROM 10 BALLS
+
+frame_no: 00026
+team_name: TL
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNS TOWIN FROM 10 BALLS
+
+frame_no: 00027
+team_name: N/A
+team_score: 7/144
+striker: {'striker_name': 'GUNARATHNE', 'striker_runs': '53', 'striker_balls': '38'}
+non_striker: {'non_striker_name': 'KULASEKARA', 'non_striker_runs': '12', 'non_striker_balls': '7'}
+bowler: {'bowler_name': 'HENRIQUES', 'bowler_runs': '22', 'wickets': '0'}
+overs: N/A
+runrate: 7.85
+reqrun: 18.00
+speed: 125.6KM/H
+action: SRILANKA NEED 3O MORE RUNSTOWIN FROM 10 BALLS
+
+frame_no: 00028
+team_name: PC
+team_score: N/A
+striker: {'striker_name': 'N/A', 'striker_runs': 'N/A', 'striker_balls': 'N/A'}
+non_striker: {'non_striker_name': 'SPEED', 'non_striker_runs': '135', 'non_striker_balls': '0'}
+bowler: {'bowler_name': 'N/A', 'bowler_runs': 'N/A', 'wickets': 'N/A'}
+overs: N/A
+runrate: N/A
+reqrun: N/A
+speed: N/A
+action: N/A
+
+frame_no: 00029
+team_name: N/A
+team_score: N/A
+striker: {'striker_name': 'N/A', 'striker_runs': 'N/A', 'striker_balls': 'N/A'}
+non_striker: {'non_striker_name': 'N/A', 'non_striker_runs': 'N/A', 'non_striker_balls': 'N/A'}
+bowler: {'bowler_name': 'N/A', 'bowler_runs': 'N/A', 'wickets': 'N/A'}
+overs: N/A
+runrate: N/A
+reqrun: N/A
+speed: N/A
+action: N/A
+
+frame_no: N/A
+team_name: N/A
+team_score: N/A
+striker: {'striker_name': 'N/A', 'striker_runs': 'N/A', 'striker_balls': 'N/A'}
+non_striker: {'non_striker_name': 'N/A', 'non_striker_runs': 'N/A', 'non_striker_balls': 'N/A'}
+bowler: {'bowler_name': 'N/A', 'bowler_runs': 'N/A', 'wickets': 'N/A'}
+overs: N/A
+runrate: N/A
+reqrun: N/A
+speed: N/A
+action: N/A
+
