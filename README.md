@@ -6,6 +6,8 @@ Workflow:
 1.Video Frame Conversion Module
 Uses OpenCV to extract frames from the video.
 Filters redundant frames to keep only the key moments.
+![image](https://github.com/user-attachments/assets/718354d1-2328-4c10-a892-2da78173d772)
+
 
 2.Scoreboard Detection & Data Extraction Module
 Uses YOLOv8 to detect scoreboards.
